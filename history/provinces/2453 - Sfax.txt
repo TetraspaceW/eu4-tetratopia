@@ -1,0 +1,38 @@
+# - Sfax
+
+
+ 
+
+
+capital = "Sfax"
+trade_goods = sugar
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1535.6.11 = {
+	
+	
+	
+}
+1546.1.1 = {
+	
+	
+	
+} #Turgut Reis
+1593.1.1 = {
+	
+	
+	remove_core = TRP
+} #Tunisian Pashalik created

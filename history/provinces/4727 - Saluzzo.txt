@@ -1,0 +1,39 @@
+#4727 - Saluzzo
+
+
+
+
+hre = yes
+base_tax = 3
+base_production = 4
+trade_goods = iron
+base_manpower = 4
+capital = "Saluzzo"
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1495.1.1 = { hre = no }
+1548.1.1 = {    }
+1588.1.1 = {    }
+1713.4.12 = {
+    
+    
+    
+} # Treaty of Utrecht
+1720.1.1 = {
+    
+    
+    
+    remove_core = SIC
+} # Kingdom of Piedmont-Sardinia
+1792.9.1 = {  } # Conquered by the French
+1798.1.1 = {   } # Stura Department
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.4.11 = {
+    
+    
+    remove_core = FRA
+} # Napoleon abdicates and Victor Emmanuel is able to return to Turin

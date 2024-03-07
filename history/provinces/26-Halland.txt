@@ -1,0 +1,28 @@
+#Halland, contains Halmstad, Varberg.
+
+
+owner = PMD
+add_core = PMD
+
+
+
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+capital = "Halmstad"
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1534.8.15 = { revolt = { type = revolutionary_rebels size = 1 }  } # 'Grevefejden'(Christofer of Oldenburg)
+1534.11.15 = { revolt = {}  } # Liberated by Sweden
+1536.1.1 = { } # Unknown date
+1565.9.15 = {  } # The Nordic Seven-year War
+1569.12.4 = {  } # The Nordic Seven-year War
+1645.8.13 = {    } # The Peace of Brömsebro
+1680.1.1 = {  } # The population adepted to Swedish ways.

@@ -1,0 +1,45 @@
+# 4745 - Rügen
+
+
+owner = PMD
+add_core = PMD
+
+
+
+
+
+hre = yes
+base_tax = 2
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Bergen auf Rügen"
+is_city = yes
+
+unrest = 8 #pirate independence of thought
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1648.10.24 = {
+	
+	
+	
+	remove_core = BRA
+}
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.1.14 = {
+	
+	
+	
+	remove_core = SWE
+} # Treaty of Kiel
+1815.6.7 = {
+	
+	
+	
+	remove_core = DAN
+}

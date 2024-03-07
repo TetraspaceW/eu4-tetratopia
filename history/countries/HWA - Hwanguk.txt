@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+technology_group = chinese
+religion = qualiist
+primary_culture = modern
+capital = 735	# Hanseong
+
+1444.1.1 = {
+	
+}

@@ -1,0 +1,90 @@
+##################################################
+#
+# ADVISORS FOR THE REGION 'GERMANY'
+#
+##################################################
+##################################################
+#German provinces:
+##################################################
+#40 - Memel
+#41 - Ostpreussen
+#42 - Warmia
+#43 - Danzig
+#44 - Hamburg
+#45 - Lubeck
+#46 - Mecklenburg
+#47 - Vorpommern
+#48 - Hinterpommern
+#49 - Neumark
+#50 - Brandenburg
+#51 - Ruppin
+#52 - Altmark
+#53 - Luneburg
+#54 - Bremen
+#55 - Oldenburg
+#56 - Osnabruck
+#57 - Hannover
+#58 - Anhalt
+#59 - Meissen
+#60 - Lausitz
+#61 - Dresden
+#62 - Leipzig
+#63 - Erfurt 
+#64 - Niederbayern
+#65 - Munchen
+#66 - Bamberg
+#67 - Franken
+#68 - Schwaben
+#69 - Konstanz
+#70 - Wurttemberg
+#71 - Leiningen
+#72 - Breisgau
+#74 - Baden
+#75 - Elsass
+#77 - Worms
+#78 - Pfalz
+#79 - Wurzburg
+#80 - Trier
+#81 - Hessen
+#82 - Lippe
+#83 - Nassau
+#84 - Berg
+#85 - Koln
+#86 - Munster
+##################################################
+#Advisor types:
+##################################################
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

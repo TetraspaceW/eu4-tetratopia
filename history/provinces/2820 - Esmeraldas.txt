@@ -1,0 +1,42 @@
+# - Esmeraldas
+
+
+
+
+
+capital = "Esmeraldas"
+is_city = yes
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+
+1487.1.1 = {
+	
+	
+	
+	
+}
+1533.1.1 = { discovered_by = SPA } # Sebastián de Benalcázar
+1535.1.1 = {
+	
+	
+	
+	
+	
+	trade_goods = grain
+} # Founded by Sebastián de Benalcázar
+1819.12.17 = {
+	
+	
+	
+	remove_core = SPA
+} # The establishment of Gran Colombia

@@ -1,0 +1,42 @@
+#4529 - Iasi
+
+
+owner = PMD
+add_core = PMD
+
+
+
+capital = "Iasi"
+trade_goods = wine
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+
+
+1484.1.1 = {  } #Turkish invasion
+1489.1.1 = {  } # Treaty with Sultan Bezayd II.
+1593.1.1 = {  } # Ruled by Michael the brave
+1601.1.1 = { remove_core = WAL }
+1653.1.1 = { revolt = { type = noble_rebels size = 2 }  } # Revolt of the Boyars
+1654.1.1 = { revolt = {}  } # Estimated
+1739.1.1 = {  }
+1739.9.18 = {  }
+1769.1.1 = {  }
+1774.1.1 = {  }
+1788.1.1 = {  }
+1789.1.1 = {  }
+1789.6.1 = {  } # Occupied by Austria
+1791.8.4 = {  } # Treaty of Sistova
+1806.1.1 = {  } # Occupied by Russia
+1812.5.28 = {   } # Treaty of Bucharest, ceded to Russia

@@ -1,0 +1,87 @@
+###################################################
+#
+# ADVISORS FOR THE REGION 'SCANDINAVIA'
+#
+###################################################
+#Province list:
+###################################################
+#Scandinavia:
+###################################################
+#1 - Uppland, contains Stockholm, Uppsala & Nyköping.
+#2 - Östergötland, contains Norrköping, Linköping etc.
+#3 - Småland, also contains Öland. Kalmar, Jönköping etc..
+#4 - Bergslagen, contains Falun, Västerås etc.
+#5 - Värmland+Närke+Dal, contains Karlstad & Örebro
+#6 - Skåne, contains entire Skåne-Blekinge
+#7 - Västergötland, contains Göteborg, Skara, Skövde etc.
+#8 - Dalaskogen, northwesten part of Dalarna, including Mora and entire Siljan area.
+#9 - Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
+#10 - Jämtland+Härjedalen
+#11 - Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
+#12 - Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+#13 - Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+#14 - Fyn-Langeland-Lolland-Falster, incl. Odense, Nyborg and Nykøbing
+#15 - Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
+#16 - Bohuslän, contains Marstrand, Uddevalla, Strömstad.
+#17 - Akershus, incl. Oslo (Christiania), Sarpsborg, Tönsberg
+#18 - Lapland.. the far north wastelands..
+#19 - Österbotten, down to Vasa.
+#20 - Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
+#21 - Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
+#22 - Eisdiva, Oplandene, incl. Hamar, Lillehammer
+#23 - Bergenshus, incl. Bergen
+#24 - Agder, incl. Stavanger, Kristiansand
+#25 - Gotland, Visby etc
+#26 - Halland, contains Halmstad, Varberg.
+#27 - Finland, incl. Åbo.
+#28 - Tavastland, incl. Tavastehus.
+#29 - Nyland, incl. Raseborg, Borgå, Helsingfors.
+#30 - Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
+#31 - Savolaks, incl. Nyslott(Olofsborg).
+#315 - Finnmark (Vardø)
+###################################################
+#Baltic:
+#####################################################
+#32 - Keksholms (Sordavala and Keksholm)
+#35 - Ösel (Dagö, iSonnenburg and Arensburg)
+#36 - Estland (Reval, Hapsal, Weissenstein, Wesenberg, Pernau and Narva)
+#37 - Livland (Dorpat, Fellin, Karkus,Wolmar, Lemsal and Wenden)
+#38 - Riga Riga and Dünamünde) 
+#39 - Kurland (Mitau, Libau, Windau, Bauske and Kokenhusen)
+####################################################
+#Advisor types:
+####################################################
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

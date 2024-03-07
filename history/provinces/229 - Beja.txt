@@ -1,0 +1,28 @@
+#229 - Baixo Alentejo
+
+
+
+
+
+capital = "Beja"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
+1640.12.1 = { unrest = 0 }
+1704.1.1 = {  } # War of the Spanish succession
+1713.4.11 = {  } # Treaty of Utrecht
+1801.5.26 = {  } # Invaded by Spanish troops
+1801.6.6 = {  } # Treaty of Badajoz
+1810.9.15 = {  } # Occupied by French troops
+1811.4.5 = {  }

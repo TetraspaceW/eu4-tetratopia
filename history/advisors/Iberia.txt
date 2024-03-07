@@ -1,0 +1,83 @@
+##################################################    
+#
+# ADVISORS FOR THE REGION 'IBERIA'
+#
+##################################################    
+#Provinces:
+##################################################    
+#Spain:
+##################################################    
+#193 - Franche-Comte - Besançon
+#197 - Roussillon - Perpignan
+#206 - Galicia - A Corunha, Santiago de Compostela
+#207 - Asturias - Oviedo
+#208 - León - Burgos
+#209 - Vizcaya - Bilbao
+#210 - Navarra - Pamplona
+#211 - Pirineo - Huesca
+#212 - Girona - Girona
+#213 - Barcelona - Barcelona
+#214 - Aragón - Zaragoza
+#215 - Castilla La Vieja - Valladolid
+#216 - Salamanca - Salamanca
+#217 - Madrid - Madrid
+#218 - Badajoz - Badajoz
+#219 - Toledo - Toledo
+#220 - València - Valencia
+#221 - Murcia - Cartagena
+#222 - Almería - Almeria
+#223 - Granada - Granada
+#224 - Andalucía - Sevilla
+#225 - Córdoba - Cordoba
+#226 - Gibraltar - Gibraltar
+#333 - The Baleares - Palma
+#366 - The Canarias
+##################################################    
+#Portugal:
+##################################################    
+#227 - Lisboa - Lisboa
+#228 - Beira - Coimbra
+#229 - Alentejo - Evora
+#230 - Algarve - Faro
+#231 - Porto - Porto
+#232 - Bragança - Braganca
+#367 - The Azores
+#368 - Madeira
+##################################################    
+##################################################    
+#Advisor types:
+##################################################    
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

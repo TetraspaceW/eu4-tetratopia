@@ -1,0 +1,43 @@
+# - Puna de Atacama
+
+
+owner = PHR
+add_core = PHR
+
+
+discovered_by = south_american
+discovered_by = andean
+
+
+capital = "Catarpe"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 1
+
+1485.1.1 = {
+	
+	
+	
+	
+	trade_goods = salt
+	is_city = yes
+}
+1537.1.1 = {
+	discovered_by = SPA
+	
+	
+	
+	
+	
+	capital = "San Pedro de Atacama"
+}
+1810.9.18 = {
+	
+	
+	
+} # First National Government Junta

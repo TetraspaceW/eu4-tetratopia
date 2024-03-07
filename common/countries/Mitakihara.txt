@@ -1,0 +1,149 @@
+# Mitakihara
+
+graphical_culture = asiangfx
+
+color = { 255 192 203 }	
+
+# Used for colonial nations
+historical_idea_groups = {	
+	expansion_ideas
+	trade_ideas		
+	plutocracy_ideas	
+	economic_ideas
+	quality_ideas	
+	maritime_ideas	
+	quantity_ideas	
+	administrative_ideas
+}
+
+monarch_names = { 
+	"Iroha #0" = 1
+	"Yachiyo #0" = 1
+	"Tsuruno #0" = 1
+	"Sana #0" = 1
+	"Felicia #0" = 1
+	"Mifuyu #0" = 1
+	"Touka #0" = 1
+	"Alina #0" = 1	
+	"Rena #0" = 1
+	"Momoko #0" = 1
+	"Kaede #0" = 1
+	"Karin #0" = 1
+	"Asuka #0" = 1
+	"Nemu #0" = 1
+	"Ui #0" = 1
+	"Kanagi #0" = 1
+	"Mitama #0" = 1
+	"Tsukuyo #0" = 1
+	"Tsukasa #0" = 1
+	"Kagome #0" = 1
+	"Yuna #0" = 1
+	"Hikaru #0" = 1
+	"Ao #0" = 1
+	"Juri #0" = 1
+	"Shizuka #0" = 1
+	"Chiharu #0" = 1
+	"Sunao #0" = 1
+	"Himena #0" = 1
+	"Shigure #0" = 1
+	"Hagumu #0" = 1
+	"San #0" = 1
+	"Miyuri #0" = 1
+	"Lavi #0" = 1
+	"Asahi #0" = 1
+	"Alexandra #0" = 1
+	"Urara #0" = 1
+	"Nayuta #0" = 1
+	"Mikage #0" = 1
+	"Sudachi #0" = 1
+	"Yozuru #0" = 1
+	"Livia #0" = 1
+	"Mikoto #0" = 1
+	"Madoka #0" = 1
+	"Sayaka #0" = 1
+	"Mami #0" = 1
+	"Kyoko #0" = 1
+	"Nagisa #0" = 1
+	"Homura #0" = 1
+	"Oriko #0" = 1
+	"Kirika #0" = 1
+	"Yuma #0" = 1
+	"Kazumi #0" = 1
+	"Umika #0" = 1
+	"Kaoru #0" = 1
+	"Saki #0" = 1
+	"Niko #0" = 1
+	"Michiru #0" = 1
+	"Suzune #0" = 1
+	"Matsuri #0" = 1
+	"Arisa #0" = 1
+	"Chisato #0" = 1
+	"Haruka #0" = 1
+	"Tsubaki #0" = 1
+	"Kagari #0" = 1
+	
+	"Iroha #0" = -1
+	"Yachiyo #0" = -1
+	"Tsuruno #0" = -1
+	"Sana #0" = -1
+	"Felicia #0" = -1
+	"Mifuyu #0" = -1
+	"Touka #0" = -1
+	"Alina #0" = -1	
+	"Rena #0" = -1
+	"Momoko #0" = -1
+	"Kaede #0" = -1
+	"Karin #0" = -1
+	"Asuka #0" = -1
+	"Nemu #0" = -1
+	"Ui #0" = -1
+	"Kanagi #0" = -1
+	"Mitama #0" = -1
+	"Tsukuyo #0" = -1
+	"Tsukasa #0" = -1
+	"Kagome #0" = -1
+	"Yuna #0" = -1
+	"Hikaru #0" = -1
+	"Ao #0" = -1
+	"Juri #0" = -1
+	"Shizuka #0" = -1
+	"Chiharu #0" = -1
+	"Sunao #0" = -1
+	"Himena #0" = -1
+	"Shigure #0" = -1
+	"Hagumu #0" = -1
+	"San #0" = -1
+	"Miyuri #0" = -1
+	"Lavi #0" = -1
+	"Asahi #0" = -1
+	"Alexandra #0" = -1
+	"Urara #0" = -1
+	"Nayuta #0" = -1
+	"Mikage #0" = -1
+	"Sudachi #0" = -1
+	"Yozuru #0" = -1
+	"Livia #0" = -1
+	"Mikoto #0" = -1
+	"Madoka #0" = -1
+	"Sayaka #0" = -1
+	"Mami #0" = -1
+	"Kyoko #0" = -1
+	"Nagisa #0" = -1
+	"Homura #0" = -1
+	"Oriko #0" = -1
+	"Kirika #0" = -1
+	"Yuma #0" = -1
+	"Kazumi #0" = -1
+	"Umika #0" = -1
+	"Kaoru #0" = -1
+	"Saki #0" = -1
+	"Niko #0" = -1
+	"Michiru #0" = -1
+	"Suzune #0" = -1
+	"Matsuri #0" = -1
+	"Arisa #0" = -1
+	"Chisato #0" = -1
+	"Haruka #0" = -1
+	"Tsubaki #0" = -1
+	"Kagari #0" = -1
+}

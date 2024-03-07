@@ -1,0 +1,43 @@
+#483 - Turks Islands
+
+
+
+capital = "Grand Turk"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+1512.1.1 = {
+	discovered_by = CAS
+	
+	
+	
+	
+	
+	trade_goods = cotton
+} # Juan Ponce de León
+1516.1.23 = {
+	discovered_by = SPA
+	
+	
+	
+	remove_core = CAS
+}
+1530.1.1 = { is_city = yes }
+1681.1.1 = { capital = "Cockburn Town" }
+1700.1.1 = {
+	
+	
+	
+	remove_core = SPA
+	
+	
+} # Settlers from Bermuda
+1707.5.12 = {    remove_core = ENG discovered_by = GBR }
+1753.1.1 = { unrest = 6 } # France claimed the island
+1754.1.1 = { unrest = 0 } # ...but were repelled just a year later

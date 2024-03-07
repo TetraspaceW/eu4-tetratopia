@@ -1,0 +1,24 @@
+# No previous file for Kantor
+
+
+
+
+ #Subjet province within the empire
+is_city = yes
+ 
+ #Fetishism
+capital = "Sutuco"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 50
+
+1537.1.1 = {
+	
+	
+	
+	remove_core = MAL
+} #Kaabu declares independece from Mali

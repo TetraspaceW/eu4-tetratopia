@@ -1,0 +1,41 @@
+	#Savolaks, incl. Nyslott(Olofsborg).
+
+
+owner = PMD
+add_core = PMD
+
+
+
+
+
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Olofsborg"
+is_city = yes
+#fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+
+
+1497.3.13 = {  } # Danish loyalists at Danish DoW
+1497.10.6 = {  } # Hans I become King and Sweden a Danish Vassal
+1501.8.1 = {  } # Danish loyalists at Swedish DoW and breaking of vassalage
+1502.9.10 = {  } # Retaken by Sweden
+1527.6.1 = { }
+1598.8.1 = {  } # Sigismund tries to reconquer his crown
+1599.8.16 = {  } # Duke Karl get it back
+1600.1.1 = { trade_goods = naval_supplies }
+1639.1.1 = { capital = "Nyslott" } # Unknown date
+1714.7.29 = {  } # The Great Nordic War-Captured by Apraksin
+1721.8.30 = {  } # The Peace of Nystad
+1742.9.15 = {  } # The War of the Hats-Estimated date
+1743.8.7 = {  } # The Peace of Åbo
+1808.2.21 = {  } # Conquered by Friedrich Wilhelm von Buxhoevden
+1809.9.17 = {
+	
+	
+	remove_core = SWE
+} # Treaty of Fredrikshamn

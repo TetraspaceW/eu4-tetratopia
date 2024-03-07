@@ -1,0 +1,47 @@
+math_pharaohdom = {
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = NOMARCH
+		2 = PHARAOH
+		3 = GREAT_PHARAOH
+	}
+
+	ruler_female = {
+		1 = NOMARCH
+		2 = PHARAOH_fem
+		3 = GREAT_PHARAOH_fem
+	}
+	
+	consort_male = {
+		1 = MATH_PET
+		2 = MATH_PET
+		3 = MATH_PET
+	}
+
+	consort_female = {
+		1 = MATH_PET
+		2 = MATH_PET
+		3 = MATH_PET
+	}
+
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+
+	trigger = {
+		religion = math_dom
+	}
+}

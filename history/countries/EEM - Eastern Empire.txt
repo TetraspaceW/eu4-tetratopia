@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+religion = imperial_cult
+primary_culture = modern
+capital = 1821	# Nanjing
+
+1444.1.1 = {
+	monarch = {
+		name = "Ma'ar"
+		dynasty = "Leareth"
+		birth_date = 1424.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

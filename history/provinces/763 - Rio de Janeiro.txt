@@ -1,0 +1,34 @@
+#763 - Rio de Janeiro
+
+
+discovered_by = south_american
+
+capital = "Rio de Janeiro"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 1
+extra_cost = 8
+center_of_trade = 1
+
+1502.1.1 = { discovered_by = POR } # Gaspar de Lemos
+1555.1.1 = {
+	
+	
+	
+	
+	
+	is_city = yes
+	trade_goods = sugar
+} # The French occupied the area & established a colony
+1565.3.1 = {
+	
+	
+	
+	remove_core = FRA
+	
+} # The French are expelled

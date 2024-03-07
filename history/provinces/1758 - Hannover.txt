@@ -1,0 +1,53 @@
+#1758 - Hannover
+
+
+
+
+
+capital = "Hannover"
+trade_goods = cloth
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1529.1.1 = {  }
+
+1692.1.1 = {
+	
+	
+	
+} # Duke Ernst August becomes Elector of Hannover
+1757.7.26 = {  } # Battle of Hastenbeck, occupied by the French
+1757.11.5 = {  } # Battle of Rossbach, the French are defeated by the Prussians
+1803.7.5 = {  } # Occupied by French troops
+1805.12.15 = {
+	
+	
+	
+	remove_core = HAN
+} # Treaty of Schoenbrunn, ceded to Prussia
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1807.7.9 = {
+	
+	
+	
+	remove_core = PRU
+} # The Second Treaty of Tilsit, the kingdom of Westfalia
+1813.10.13 = {
+	
+	
+	
+	remove_core = WES
+} # The kingdom is dissolved

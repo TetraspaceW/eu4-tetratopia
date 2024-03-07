@@ -1,0 +1,35 @@
+#899 - Osage
+
+
+
+capital = "Pahatsi"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 7
+
+
+
+discovered_by = north_american
+
+1554.1.1 = { discovered_by = SPA }
+1673.1.1 = { discovered_by = FRA } # Louis Joliet & Jacques Marquette
+1680.1.1 = {
+	
+	
+	
+	is_city = yes
+	
+} #Migrations from the Beaver Wars
+1808.11.10 = {
+	
+	
+	
+	remove_core = OSA
+	
+	 
+} #Treaty of Fort Clark

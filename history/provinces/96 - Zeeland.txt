@@ -1,0 +1,36 @@
+# 96 Zeeland - Principal cities: Middelburg, Vlissingen & Zierikzee
+
+
+
+
+is_city = yes
+capital = "Middelburg"
+
+
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = salt
+base_manpower = 1
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1477.1.5 = {    }
+1519.1.12 = {    remove_core = HAB }
+1549.11.4 = {    remove_core = SPA }
+1572.1.1 = {  }
+1648.10.24 = { hre = no } # The Peace of Westphalia
+1681.1.1 = { base_tax = 6 
+base_production = 6 } # Protestants expelled from France
+1810.7.10 = {
+	
+	
+	
+} # Annexed by France
+1813.11.30 = {
+	
+	
+	remove_core = FRA
+} # William returns to the Netherlands

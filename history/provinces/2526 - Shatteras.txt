@@ -1,0 +1,31 @@
+## No previous file for Shatteras
+
+
+
+
+is_city = yes
+
+
+capital = "Shatteras"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = north_american
+
+1671.1.1 = { discovered_by = ENG } # Abraham Wood
+1707.5.12 = { discovered_by = GBR }
+1774.10.19 = {
+	
+	
+	
+	 
+} #Treaty of Camp Charlotte, becomes part of Virginia
+1776.7.4 = {    } #Then part of Virginia, one of the thirteen colonies.

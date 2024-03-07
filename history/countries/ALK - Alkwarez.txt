@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = high_american
+religion = math_dom
+primary_culture = modern
+capital = 807	# potosi
+
+1444.1.1 = {
+	
+}

@@ -1,0 +1,33 @@
+# No previous file for Sobaipuri
+
+
+
+capital = "Sobaipuri"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = north_american
+1731.1.1 = {
+	
+	
+	
+	remove_core = PIM
+	trade_goods = salt
+	
+	
+} # First permanent Spanish settlers
+1751.1.1 = { unrest = 5 }
+1752.1.1 = { unrest = 0 }
+1810.9.16 = {
+	
+	
+	
+} # Mexican War of Independence

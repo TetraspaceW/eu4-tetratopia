@@ -1,0 +1,37 @@
+#4123 - Birkaland
+
+
+owner = PMD
+add_core = PMD
+
+
+
+
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Messukylä"
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+
+1527.6.1 = { }
+1596.11.1 = { revolt = { type = anti_tax_rebels size = 1}  }
+1597.2.24 = { revolt = {}  }
+1598.8.1 = {  } # Sigismund tries to reconquer his crown
+1599.7.15 = {  } # Duke Karl get it back
+1600.1.1 = { trade_goods = naval_supplies }
+1713.10.6 = {  } # The Great Nordic War-Captured by Apraksin
+1721.8.30 = {  } # The Peace of Nystad
+1742.10.30 = {  } # The War of the Hats-Estimated date
+1743.8.7 = {  } # The Peace of Åbo
+1779.1.1 = { capital = "Tammerfors" }
+1808.2.21 = {  } # Conquered by Friedrich Wilhelm von Buxhoevden
+1809.9.17 = {
+	
+	
+	remove_core = SWE
+	capital = "Tampere"
+} # Treaty of Fredrikshamn

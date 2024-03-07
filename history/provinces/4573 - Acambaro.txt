@@ -1,0 +1,34 @@
+# No previous file for Acambaro
+
+
+
+
+
+
+capital = "Acambaro"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = mesoamerican
+
+1470.1.1 = { 
+	
+	
+	
+	} #Estimated: Tarascan operations toward the Aztec frontier 
+1530.1.1 = { 
+	discovered_by = SPA
+	
+	
+	
+	is_city = yes
+}
+1810.9.16 = {    } # Mexican War of Independence

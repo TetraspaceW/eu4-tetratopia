@@ -1,0 +1,46 @@
+#Kurland, center at Goldingen
+
+
+owner = PMD
+add_core = PMD
+
+
+
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Goldingen"
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+#1561.11.28
+1561.1.1 = { 
+	
+	
+	remove_core = LIV
+	
+} # Treaty of Stettin
+1621.10.3 = {  } # 2nd Polish War-Captured by GIIA
+1622.6.25 = {  } # 2nd Polish War-Captured by Radziwill
+1625.9.24 = {  } # 2nd Polish War-Captured by GIIA
+1629.9.16 = {  } # The Armistice of Altmark
+1655.8.5 = {  } # 3rd Polish War-Captured by Magnus Gabriel de la Gardie
+1656.6.15 = {  } # 3rd Polish War-Swedish withdrawal
+1658.9.29 = {  } # 3rd Polish War-Captured by Robert Douglas
+1659.7.23 = {  } # 3rd Polish War-Captured by Samuel Komorowski
+1701.7.20 = {  } # The Great Nordic War-Captured by Karl XII
+1705.8.25 = {  } # The Great Nordic War-Captured by Russians
+1795.10.24 = {
+	
+	
+	
+} # Third partition of Poland

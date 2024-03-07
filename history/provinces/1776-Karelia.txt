@@ -1,0 +1,27 @@
+#East Karelia
+owner = PMD
+add_core = PMD
+
+
+ 
+capital = "Kem"
+
+
+
+
+hre = no
+is_city = yes
+base_tax = 1 
+base_production = 1
+trade_goods = salt
+base_manpower = 1
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+add_local_autonomy = 25
+
+1478.1.15 = {    remove_core = NOV }
+1503.4.1 = {    remove_core = MOS }

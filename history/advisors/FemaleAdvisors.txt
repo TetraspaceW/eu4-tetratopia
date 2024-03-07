@@ -1,0 +1,20 @@
+##################################################    
+#
+# FEMALE ADVISORS
+#
+##################################################   
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+##################################################    
+# Range: 1600-1650
+##################################################

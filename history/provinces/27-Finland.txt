@@ -1,0 +1,18 @@
+#Finland, incl. Åbo.
+
+
+owner = PMD
+add_core = PMD
+
+base_tax = 16 
+base_production = 16
+base_manpower = 8
+
+
+hre = no
+trade_goods = grain
+capital = "City 00"
+is_city = yes
+fort_15th = yes
+discovered_by = western
+discovered_by = eastern

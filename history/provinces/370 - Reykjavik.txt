@@ -1,0 +1,30 @@
+#370 - Reykjavik
+
+
+ 
+
+
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+add_local_autonomy = 25
+capital = "Reykjavik"
+is_city = yes 	
+
+
+discovered_by = western
+add_permanent_province_modifier = {
+	name = icelanding_fisher_sea
+	duration = -1
+}
+
+
+1536.1.1 = {
+	
+	
+	
+	
+}
+1752.1.1 = { trade_goods = wool remove_province_modifier = icelanding_fisher_sea } # Wool becomes more important.

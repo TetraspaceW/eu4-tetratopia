@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+technology_group = chinese
+religion = pink_ribbon
+primary_culture = mitakiharan
+capital = 1021	# Settsu
+
+1444.1.1 = {
+	monarch = {
+		name = "Aiko"
+		dynasty = "Kaname"
+		birth_date = 1418.1.1
+		adm = 6
+		dip = 1
+		mil = 5
+		female = yes
+	}
+}

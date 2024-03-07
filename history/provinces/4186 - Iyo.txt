@@ -1,0 +1,26 @@
+#4186 - Iyo
+
+owner = MIT
+add_core = MIT
+religion = pink_ribbon
+culture = mitakiharan
+
+
+
+capital = "Yuzuki"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1586.1.1 = {    remove_core = KNO } # Fall of the Kono Clan
+1600.10.21 = {    remove_core = MRI }
+1614.12.18 = {    remove_core = TKG } # Date-Uwajima Clan

@@ -1,0 +1,35 @@
+#118 - Roma
+
+
+
+ 
+ 
+hre = no
+base_tax = 9
+base_production = 9
+trade_goods = paper
+base_manpower = 7
+capital = "Roma"
+is_city = yes
+fort_15th = yes #Castel Sant'Angelo
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+add_province_triggered_modifier = religious_center
+add_province_triggered_modifier = non_catholic_rome
+extra_cost = 8
+center_of_trade = 1
+
+
+1408.1.1 = {    } # Ladislas takes control of Ancona
+1414.8.6 = {   remove_core = NAP }
+1750.1.1 = {  } 
+1809.4.10 = {  } # Occupied by French troops
+1809.10.14 = {   } # Treaty of Schönbrunn
+1814.4.11 = {
+	
+	
+	remove_core = FRA
+} # # Treaty of Fontainebleau, Napoleon abdicates unconditionally

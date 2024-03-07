@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "Premodern Tetratopia"
+	desc = "Before Modernity, there was this."
+	date = 1444.11.11
+	
+	center = 112
+	default = yes
+	
+	country = TUR
+}

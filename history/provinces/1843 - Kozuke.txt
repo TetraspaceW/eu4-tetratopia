@@ -1,0 +1,31 @@
+#1843 - Kozuke
+
+
+owner = MIT
+add_core = MIT
+religion = pink_ribbon
+culture = mitakiharan
+
+
+capital = "Mayabashi"
+trade_goods = livestock
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+1542.1.1 = { discovered_by = POR }
+1546.5.19 = {  }
+1560.1.1 = {  }
+1578.4.1 = {   }
+1582.4.3 = { remove_core = TKD    }
+1582.10.27 = {    }
+1590.8.10 = { remove_core = HJO remove_core = UES remove_core = ODA    }

@@ -1,0 +1,395 @@
+####################################################
+#
+# ADVISORS FOR THE REGION 'AMERICAS'
+#
+####################################################
+####################################################
+#Provinces:
+####################################################
+#America:
+####################################################
+#Aztec Empire
+#837 - Nicaragua (837 - Nicaragua.txt) 
+#839 - Pipil (839 - Pipil.txt) 
+#852 - Mexico (852 - Mexico.txt) 
+#853 - Huastec (853 - Huastec.txt) 
+#854 - Sayultecas (854 - Sayultecas.txt) 
+#855 - Huichol (855 - Huichol.txt) 
+#856 - Zacatecas (856 - Zacatecas.txt) 
+#857 - Guachichil (857 - Guachichil.txt) 
+#858 - Tamaulipas (858 - Tamaulipas.txt) 
+###################################################
+#Brazil 
+###################################################
+#747 - Tucujulandia (747 - Tucujulandia.txt)  
+#748 - GraoPara (748 - Grao Para.txt)  
+#749 - Maranhao (749 - Maranhao.txt)  
+#750 - Alpercatas (750 - Alpercatas.txt)  
+#751 - Ceara (751 - Ceara.txt)  
+#752 - Oeiras (752 - Oeiras.txt)  
+#753 - RioGrande (753 - Rio Grande.txt)  
+#754 - Itamaraca (754 - Itamaraca.txt)  
+#755 - Pernambuco (755 - Pernambuco.txt)  
+#756 - Bahia (756 - Bahia.txt)  
+#757 - Ilheus (757 - Ilheus.txt)  
+#758 - Goias (758 - Goias.txt)  
+#759 - Diamentina (759 - Diamentina.txt)  
+#760 - PortoSeguro (760 - Porto Seguro.txt)  
+#761 - EspiritoSanto (761 - Espirito Santo.txt)  
+#762 - SaoTome (762 - Sao Tome.txt)  
+#763 - RiodeJaneiro (763 - Rio de Janeiro.txt)  
+#764 - SantoAmaro (764 - Santo Amaro.txt)  
+#765 - MinasGerais (765 - Minas Gerais.txt)  
+#766 - SaoVicente (766 - Sao Vicente.txt)  
+#767 - MatoGrosso (767 - Mato Grosso.txt)  
+#768 - Guayra (768 - Guayra.txt)  
+#770 - Tape (770 - Tape.txt)  
+#771 - Patos (771 - Patos.txt)  
+####################################################
+#Canada 
+####################################################
+#910 - Chippewa (910 - Chippewa.txt) 
+#964 - Mohawk (964 - Mohawk.txt)
+#986 - Kespek (986 - Kespek.txt) 
+#987 - Niagara (987 - Niagara.txt)  
+#988 - Huron (988 - Huron.txt) 
+#989 - Ontario (989 - Ontario.txt)
+#990 - Kwedech (990 - Kwedech.txt)
+#991 - Ottawa (991 - Ottawa.txt) 
+#992 - Algonquin (992 - Algonquin.txt)   
+#993 - Hochelega (993 - Hochelega.txt) 
+#994 - Stadacona (994 - Stadacona.txt)  
+#995 - Atiamekw (995 - Atiamekw.txt) 
+#1000 - Cree (1000 - Cree.txt) 
+#1001 - Sault (1001 - Sault.txt) 
+#1002 - Abitbi (1002 - Abitbi.txt)  
+#1003 - MooseCree (1003 - Moose Cree.txt)
+#1007 - Ojibwa (1007 - Ojibwa.txt) 
+####################################################
+#Spanish Empire
+####################################################
+#481 - Bermuda (481 - Bermuda.txt) 
+#482 - Bahamas (482 - Bahamas.txt) 
+#483 - TurksIslands (483 - Turks Islands.txt) 
+#484 - Havana (484 - Havana.txt) 
+#485 - Moron (485 - Moron.txt) 
+#486 - Guantamano (486 - Guantamano.txt) 
+#487 - Jamaica (487 - Jamaica.txt) 
+#488 - LesCayes (488 - Les Cayes.txt) 
+#489 - Tortuga (489 - Tortuga.txt) 
+#490 - Barahonas (490 - Barahonas.txt) 
+#491 - Curacao (491 - Curacao.txt) 
+#492 - PuertoRico (492 - Puerto Rico.txt) 
+#493 - St.Thomas (493 - St. Thomas.txt) 
+#494 - St.Martin (494 - St. Martin.txt) 
+#495 - St.Kitts (495 - St. Kitts.txt) 
+#496 - Antigua (496 - Antigua.txt) 
+#497 - Guadelopue (497 - Guadelopue.txt)  
+#498 - Dominica (498 - Dominica.txt) 
+#499 - Martinique (499 - Martinique.txt) 
+#500 - St.Lucia (500 - St. Lucia.txt)  
+#502 - Trinidad (502 - Trinidad.txt) 
+#741 - Cumana (741 - Cumana.txt)  
+#742 - Guayana (742 - Guayana.txt)  
+#743 - Essequibo (743 - Essequibo.txt)  
+#744 - Demerara (744 - Demerara.txt)  
+#745 - Suriname (745 - Suriname.txt)  
+#746 - Cayenne (746 - Cayenne.txt)  
+#772 - Uruguay (772 - Uruguay.txt)  
+#773 - BandaOriente (773 - Banda Oriente.txt)  
+#774 - Mbaracayu (774 - Mbaracayu.txt)  
+#775 - Xeres (775 - Xeres.txt)  
+#776 - Itenines (776 - Itenines.txt)  
+#777 - Parana (777 - Parana.txt)  
+#778 - RiodelaPlata (778 - Rio de la Plata.txt)  
+#779 - Serranos (779 - Serranos.txt)  
+#780 - Tehuelmapu (780 - Tehuelmapu.txt)  
+#781 - PatagoniaOriental (781 - Patagonia Oriental.txt)  
+#782 - TierradelFuego (782 - Tierra del Fuego.txt)  
+#783 - PatagoniaOccidental (783 - Patagonia Occidental.txt)  
+#784 - Huillimapu (784 - Huillimapu.txt)  
+#785 - Pehuenmapu (785 - Pehuenmapu.txt)  
+#786 - SalinasGrande (786 - Salinas Grande.txt)  
+#787 - Pincunmapu (787 - Pincunmapu.txt)  
+#788 - Cuyo (788 - Cuyo.txt)  
+#789 - Pampas (789 - Pampas.txt)  
+#790 - ChacoAustral (790 - Chaco Austral.txt)  
+#791 - Catamarca (791 - Catamarca.txt)  
+#792 - Copiapo (792 - Copiapo.txt)  
+#793 - Atacama (793 - Atacama.txt)  
+#794 - Jujuy (794 - Jujuy.txt)  
+#795 - Chichas (795 - Chichas.txt)  
+#796 - Arica (796 - Arica.txt)  
+#797 - Caracara (797 - Caracara.txt)  
+#798 - Charcas (798 - Charcas.txt)  
+#799 - ChacoBoreal (799 - Chaco Boreal.txt)  
+#800 - Chiquitos (800 - Chiquitos.txt)  
+#801 - Caranga (801 - Caranga.txt)  
+#802 - Chuquiabo (802 - Chuquiabo.txt)  
+#803 - Moxos (803 - Moxos.txt)  
+#804 - Puno (804 - Puno.txt)  
+#805 - Arequipa (805 - Arequipa.txt)  
+#806 - Nazca (806 - Nazca.txt)  
+#807 - Huamanga (807 - Huamanga.txt)  
+#808 - Cuzco (808 - Cuzco.txt)  
+#809 - Lima (809 - Lima.txt)  
+#810 - Huancavelica (810 - Huancavelica.txt)  
+#811 - Tarma (811 - Tarma.txt)  
+#812 - Chanchan (812 - Chanchan.txt)  
+#813 - Cajamarca (813 - Cajamarca.txt)  
+#814 - Huanuco (814 - Huanuco.txt)  
+#815 - Maynas (815 - Maynas.txt)  
+#816 - Tumbes (816 - Tumbes.txt)  
+#817 - Cuenca (817 - Cuenca.txt)  
+#818 - Canelos (818 - Canelos.txt)  
+#819 - Guayaquil (819 - Guayaquil.txt)  
+#820 - Quito (820 - Quito.txt)  
+#821 - Quijos (821 - Quijos.txt)  
+#822 - Caqueta (822 - Caqueta.txt)  
+#823 - Cauca (823 - Cauca.txt)  
+#824 - Mariquita (824 - Mariquita.txt)  
+#825 - Bogota (825 - Bogota.txt)  
+#826 - Choco (826 - Choco.txt)  
+#827 - Antioquia (827 - Antioquia.txt)  
+#828 - Cartagena (828 - Cartagena.txt)  
+#829 - Magdalena (829 - Magdalena.txt)  
+#830 - Maracaibo (830 - Maracaibo.txt)  
+#831 - Caracas (831 - Caracas.txt)   
+#832 - Chiancon (832 - Chiancon.txt)   
+#833 - Tunja (833 - Tunja.txt)   
+#834 - Barinas (834 - Barinas.txt)
+#835 - Panama (835 - Panama.txt) 
+#837 - Nicaragua (837 - Nicaragua.txt) 
+#839 - Pipil (839 - Pipil.txt) 
+#852 - Mexico (852 - Mexico.txt) 
+#853 - Huastec (853 - Huastec.txt) 
+#854 - Sayultecas (854 - Sayultecas.txt) 
+#855 - Huichol (855 - Huichol.txt) 
+#856 - Zacatecas (856 - Zacatecas.txt) 
+#857 - Guachichil (857 - Guachichil.txt) 
+#858 - Tamaulipas (858 - Tamaulipas.txt) 
+#################################################################
+#Cherokee
+#################################################################
+#887 - Tonkawa (887 - Tonkawa.txt) 
+#888 - Atakapa (888 - Atakapa.txt) 
+#918 - Tennessee (918 - Tennessee.txt) 
+#919 - Chickasaw (919 - Chickasaw.txt) 
+#920 - Choctaw (920 - Choctaw.txt) 
+#924 - Alabama (924 - Alabama.txt) 
+#925 - Tuskegee (925 - Tuskegee.txt) 
+#929 - Muskogee (929 - Muskogee.txt) 
+#931 - Chiaha (931 - Chiaha.txt) 
+#932 - Santee (932 - Santee.txt) 
+#933 - Catawba (933 - Catawba.txt) 
+#935 - Cherokee (935 - Cherokee.txt) 
+#936 - Cheraw (936 - Cheraw.txt) 
+#949 - Monacan (949 - Monacan.txt)
+################################################################
+#Creek 
+################################################################ 
+#892 - Wichita (892 - Wichita.txt) 
+#894 - Caddo (894 - Caddo.txt) 
+#895 - Arkansas (895 - Arkansas.txt) 
+#896 - Ozark (896 - Ozark.txt) 
+#897 - Quapaw (897 - Quapaw.txt) 
+#898 - Kansas (898 - Kansas.txt) 
+#899 - Osage (899 - Osage.txt) 
+#900 - Tamaroa (900 - Tamaroa.txt) 
+#902 - Missouri (902 - Missouri.txt) 
+#922 - Mobile (922 - Mobile.txt) 
+#923 - Pensacola (923 - Pensacola.txt) 
+#926 - Seminole (926 - Seminole.txt) 
+#927 - Timucua (927 - Timucua.txt) 
+#928 - Apalachee (928 - Apalachee.txt) 
+#930 - Yamasee (930 - Yamasee.txt) 
+#938 - Pamlico (938 - Pamlico.txt) 
+#950 - Powhatan (950 - Powhatan.txt) 
+#1006 - Chipewyan (1006 - Chipewyan.txt) 
+#1011 - WoodsCree (1011 - Woods Cree.txt)
+####################################################
+#Huron
+####################################################
+#964 - Mohawk (964 - Mohawk.txt) 
+#970 - Pennacook (970 - Pennacook.txt) 
+#971 - Abnaki (971 - Abnaki.txt) 
+#987 - Niagara (987 - Niagara.txt) 
+#988 - Huron (988 - Huron.txt) 
+#989 - Ontario (989 - Ontario.txt) 
+#990 - Kwedech (990 - Kwedech.txt) 
+#992 - Algonquin (992 - Algonquin.txt) 
+#993 - Hochelega (993 - Hochelega.txt) 
+#994 - Stadacona (994 - Stadacona.txt) 
+#1008 - Winnipeg (1008 - Winnipeg.txt) 
+#1010 - Manitoba (1010 - Manitoba.txt)
+####################################################
+#Inca Empire
+###################################################
+#795 - Chichas (795 - Chichas.txt) 
+#797 - Caracara (797 - Caracara.txt) 
+#798 - Charcas (798 - Charcas.txt) 
+#800 - Chiquitos (800 - Chiquitos.txt) 
+#801 - Caranga (801 - Caranga.txt) 
+#802 - Chuquiabo (802 - Chuquiabo.txt) 
+#804 - Puno (804 - Puno.txt) 
+#805 - Arequipa (805 - Arequipa.txt) 
+#806 - Nazca (806 - Nazca.txt) 
+#807 - Huamanga (807 - Huamanga.txt) 
+#808 - Cuzco (808 - Cuzco.txt) 
+#809 - Lima (809 - Lima.txt) 
+#810 - Huancavelica (810 - Huancavelica.txt) 
+#811 - Tarma (811 - Tarma.txt) 
+#812 - Chanchan (812 - Chanchan.txt) 
+#813 - Cajamarca (813 - Cajamarca.txt) 
+#814 - Huanuco (814 - Huanuco.txt) 
+#815 - Maynas (815 - Maynas.txt) 
+#816 - Tumbes (816 - Tumbes.txt) 
+#817 - Cuenca (817 - Cuenca.txt) 
+#818 - Canelos (818 - Canelos.txt) 
+#820 - Quito (820 - Quito.txt) 
+#821 - Quijos (821 - Quijos.txt) 
+#822 - Caqueta (822 - Caqueta.txt)
+####################################################
+#Iroquois
+#################################################### 
+#937 - Tuscarora (937 - Tuscarora.txt) 
+#944 - Potawatomi (944 - Potawatomi.txt) 
+#947 - Erie (947 - Erie.txt) 
+#951 - Kanawha (951 - Kanawha.txt) 
+#952 - Manahoac (952 - Manahoac.txt) 
+#953 - Conoy (953 - Conoy.txt) 
+#954 - Allegheny (954 - Allegheny.txt) 
+#955 - Susquehanna (955 - Susquehanna.txt) 
+#956 - Lenape (956 - Lenape.txt) 
+#958 - Seneca (958 - Seneca.txt) 
+#959 - Cayuga (959 - Cayuga.txt) 
+#960 - Onondaga (960 - Onondaga.txt) 
+#961 - Oneida (961 - Oneida.txt) 
+#963 - Mahican (963 - Mahican.txt) 
+#969 - Pocumtuk (969 - Pocumtuk.txt) 
+#980 - Beothuk (980 - Beothuk.txt) 
+#991 - Ottawa (991 - Ottawa.txt) 
+#1001 - Sault (1001 - Sault.txt) 
+####################################################
+#Maya
+####################################################
+#840 - Honduras (840 - Honduras.txt) 
+#841 - Guatemala (841 - Guatemala.txt) 
+#842 - Peten (842 - Peten.txt) 
+#843 - Belize (843 - Belize.txt) 
+#845 - Campeche (845 - Campeche.txt) 
+#846 - Yucatan (846 - Yucatan.txt) 
+####################################################
+#Shawnee
+####################################################
+#915 - Illinois (915 - Illinois.txt) 
+#916 - Kaskaskia (916 - Kaskaskia.txt) 
+#917 - Cahokia (917 - Cahokia.txt) 
+#934 - Shawnee (934 - Shawnee.txt) 
+#939 - Pennyrile (939 - Pennyrile.txt) 
+#940 - Kentucky (940 - Kentucky.txt) 
+#941 - Cumberland (941 - Cumberland.txt) 
+#942 - Wea (942 - Wea.txt) 
+#943 - Miami (943 - Miami.txt) 
+#945 - Michigan (945 - Michigan.txt) 
+#946 - Wyandot (946 - Wyandot.txt) Control  
+#948 - Ohio (948 - Ohio.txt) 
+###################################################
+#United States
+################################################### 
+#911 - Menominee (911 - Menominee.txt) 
+#912 - Sauk (912 - Sauk.txt) 
+#913 - Fox (913 - Fox.txt) 
+#914 - Winnebago (914 - Winnebago.txt) 
+#915 - Illinois (915 - Illinois.txt) 
+#916 - Kaskaskia (916 - Kaskaskia.txt) 
+#917 - Cahokia (917 - Cahokia.txt) 
+#918 - Tennessee (918 - Tennessee.txt) 
+#923 - Pensacola (923 - Pensacola.txt) 
+#927 - Timucua (927 - Timucua.txt) 
+#928 - Apalachee (928 - Apalachee.txt) 
+#929 - Muskogee (929 - Muskogee.txt) 
+#930 - Yamasee (930 - Yamasee.txt) 
+#931 - Chiaha (931 - Chiaha.txt) 
+#932 - Santee (932 - Santee.txt) 
+#933 - Catawba (933 - Catawba.txt) 
+#934 - Shawnee (934 - Shawnee.txt) 
+#935 - Cherokee (935 - Cherokee.txt) 
+#936 - Cheraw (936 - Cheraw.txt) 
+#937 - Tuscarora (937 - Tuscarora.txt) 
+#938 - Pamlico (938 - Pamlico.txt) 
+#939 - Pennyrile (939 - Pennyrile.txt) 
+#940 - Kentucky (940 - Kentucky.txt) 
+#941 - Cumberland (941 - Cumberland.txt) 
+#942 - Wea (942 - Wea.txt) 
+#943 - Miami (943 - Miami.txt) 
+#944 - Potawatomi (944 - Potawatomi.txt) 
+#945 - Michigan (945 - Michigan.txt) 
+#946 - Wyandot (946 - Wyandot.txt) 
+#947 - Erie (947 - Erie.txt) 
+#948 - Ohio (948 - Ohio.txt) 
+#949 - Monacan (949 - Monacan.txt) 
+#950 - Powhatan (950 - Powhatan.txt) 
+#951 - Kanawha (951 - Kanawha.txt) 
+#952 - Manahoac (952 - Manahoac.txt) 
+#953 - Conoy (953 - Conoy.txt) 
+#954 - Allegheny (954 - Allegheny.txt) 
+#955 - Susquehanna (955 - Susquehanna.txt) 
+#956 - Lenape (956 - Lenape.txt) 
+#957 - Delaware (957 - Delaware.txt) 
+#958 - Seneca (958 - Seneca.txt) 
+#962 - Unami (962 - Unami.txt) 
+#963 - Mahican (963 - Mahican.txt) 
+#965 - Manhattan (965 - Manhattan.txt) 
+#966 - Connecticut (966 - Connecticut.txt) 
+#967 - Narraganset (967 - Narraganset.txt) 
+#968 - Massachusetts (968 - Massachusetts.txt) 
+#969 - Pocumtuk (969 - Pocumtuk.txt) 
+#970 - Pennacook (970 - Pennacook.txt) 
+#971 - Abnaki (971 - Abnaki.txt)
+#################################################
+#Zapotec
+#################################################
+#844 - Zapotec (844 - Zapotec.txt) 
+#847 - Mixtec (847 - Mixtec.txt) 
+#848 - Tohancapan (848 - Tohancapan.txt) 
+#849 - Tlapanec (849 - Tlapanec.txt) 
+#850 - Tlaxcala (850 - Tlaxcala.txt) 
+#851 - Tarasco (851 - Tarasco.txt) 
+####################################################
+#Advisor types:
+####################################################
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

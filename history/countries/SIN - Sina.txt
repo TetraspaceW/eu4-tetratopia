@@ -1,0 +1,11 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = muslim
+religion = voluntarist
+primary_culture = modern
+capital = 382	# Damascus
+
+1444.1.1 = {
+	
+}

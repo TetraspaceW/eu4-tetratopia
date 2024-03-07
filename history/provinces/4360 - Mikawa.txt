@@ -1,0 +1,29 @@
+#4360 - Mikawa
+
+
+owner = MIT
+add_core = MIT
+religion = pink_ribbon
+culture = mitakiharan
+
+
+capital = "Okazaki"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_manpower = 3
+base_production = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+1549.4.3 = {    }
+1560.6.12 = {   remove_core = IMG }
+1590.8.10 = {    remove_core = TKG }
+1600.9.13 = {    remove_core = IKE }
+# Tokugawa shogunate founded

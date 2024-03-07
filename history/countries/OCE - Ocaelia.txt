@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+technology_group = high_american
+religion = life
+primary_culture = ocaelian
+capital = 500	# St. Vincent
+
+1444.1.1 = {
+	monarch = {
+		name = "Sophie"
+		dynasty = "Grouping"
+		birth_date = 1424.1.1
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

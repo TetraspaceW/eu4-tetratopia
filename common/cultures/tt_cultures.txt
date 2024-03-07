@@ -1,0 +1,39 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+mitakiharan_g = {
+	graphical_culture = asiangfx
+	
+	mitakiharan = {
+		primary = MIT
+		dynasty_names = { 
+			Tamaki Nanami Yui Futaba Mitsuki Azusa Satomi Gray Minami Togame Akino Misono Tatsuki Hiiragi Tamaki Izumi Yakumo Amane Amane Satori Kureha Kirari Kasane Oba Tokime Hiroe Toki Aika Miyabi Azumi Kagura Yukari Himuro Miura Kurusu Yume Satomi Yakumo Sawa Sasame Medeiros Sena Kaname Miki Tomoe Sakura Momoe Akemi Mikuni Kure Chitose Subaru Misaki Maki Asami Kanna Kazusa Amano Hinata Narumi Shion Kanade Mikoto Hinata
+		}
+		male_names = {
+			Iroha Yachiyo Tsuruno Sana Felicia Mifuyu Touka Alina Rena Momoko Kaede Karin Asuka Nemu Ui Kanagi Mitama Tsukuyo Tsukasa Kagome Yuna Hikaru Ao Juri Shizuka Chiharu Sunao Himena Shigure Hagumu San Miyuri Lavi Asahi Alexandra Urara Nayuta Mikage Sudachi Yozuru Livia Mikoto Madoka Sayaka Mami Kyoko Nagisa Homura Oriko Kirika Yuma Kazumi Umika Kaoru Saki Niko Michiru Suzune Matsuri Arisa Chisato Haruka Tsubaki Kagari
+		}
+		female_names = {
+			Iroha Yachiyo Tsuruno Sana Felicia Mifuyu Touka Alina Rena Momoko Kaede Karin Asuka Nemu Ui Kanagi Mitama Tsukuyo Tsukasa Kagome Yuna Hikaru Ao Juri Shizuka Chiharu Sunao Himena Shigure Hagumu San Miyuri Lavi Asahi Alexandra Urara Nayuta Mikage Sudachi Yozuru Livia Mikoto Madoka Sayaka Mami Kyoko Nagisa Homura Oriko Kirika Yuma Kazumi Umika Kaoru Saki Niko Michiru Suzune Matsuri Arisa Chisato Haruka Tsubaki Kagari
+		}
+	}
+}
+
+ocaelian_g = {
+	ocaelian = {
+		primary = OCE
+		
+		dynasty_names = {
+			"The-Creative-Heaven" "The-Receptive-Earth" "Difficulty-At-The-Beginning" "Youthful-Folly" "Waiting" "Conflict" "The-Army" "Grouping" "Small-Taming" "Treading" "Peace" "Standstill" "Fellowship" "Great-Possession" "Modesty" "Enthusiasm" "Following" "Work-On-The-Decayed" "Approach" "Contemplation" "Biting-Through" "Grace" "Splitting-Apart" "Return" "Innocence" "Great-Taming" "Mouth-Corners" "Great-Preponderance" "The-Abysmal-Water" "The-Clinging-Fire" "Influence" "Duration" "Retreat" "Great-Power" "Progress" "Darkening-Of-The-Light" "The-Family" "Opposition" "Obstruction" "Deliverance" "Decrease" "Increase" "Breakthrough" "Coming-To-Meet" "Gathering-Together" "Pushing-Upward" "Oppression" "The-Well" "Revolution" "The-Cauldron" "The-Arousing-Thunder" "The-Keeping-Still-Mountain" "Development" "The-Marrying-Maiden" "Abundance" "The-Wanderer" "The-Gentle-Wind" "The-Joyous-Lake" "Dispersion" "Limitation" "Inner-Truth" "Small-Preponderance" "After-Completion" "Before-Completion"
+		}
+		
+		female_names = {
+			Sophie
+		}
+	}
+}

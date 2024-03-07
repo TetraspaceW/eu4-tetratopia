@@ -1,0 +1,54 @@
+# No previous file for Michigamea
+
+
+
+capital = "Michigamea"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = north_american
+
+
+1659.1.1 = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1701.8.14 = {
+	
+	
+	is_city = no
+	 
+	} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+1724.1.1 = {
+	
+	
+	
+	is_city = yes
+	trade_goods = grain
+	
+	
+}
+1762.1.1 = {
+	
+	
+	
+	remove_core = FRA
+} # Treaty of Fontainebleau, secretely ceded to Spain
+1800.10.1 = {
+	
+	
+	
+	remove_core = SPA
+	
+} # Treaty of San Ildefonso
+1803.4.3 = {
+	
+	
+	
+	remove_core = FRA
+} # The Louisiana purchase

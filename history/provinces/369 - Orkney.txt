@@ -1,0 +1,41 @@
+#369 - Orkney
+add_core = NTH
+add_core = COR
+owner = NTH
+
+
+
+
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Kirkwall"
+is_city = yes
+
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+1469.1.1 = {
+	
+	
+	
+	
+	remove_core = NOR
+} # Dowry of Margaret, Daughter of Christian I of Denmark and Norway and Wife of James III of Scotland
+1609.1.1 = {  } # First Protestant Minister Arrives in the Orkneys
+1650.3.1 = { revolt = { type = revolutionary_rebels size = 2 }  } # Landing of Montrose
+1650.4.27 = { revolt = {}  } # Battle of Carbisdale
+1707.5.12 = {
+	
+	
+	
+}
+1750.1.1 = { }

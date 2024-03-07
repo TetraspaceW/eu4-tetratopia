@@ -1,0 +1,43 @@
+# - Bizerte
+
+
+
+
+
+capital = "Bizerte"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+discovered_by = eastern
+
+
+1534.8.16 = {
+	
+	
+	
+} #Conquered by Barbarossa
+1535.6.11 = {
+	
+	
+	remove_core = ALG
+} #Spain reinstate Hafsids
+1574.1.1 = {
+	
+	
+	
+} #End of the Hafsids, and of Spanish influence
+1593.1.1 = {
+	
+	
+	remove_core = ALG
+}#Tunisian Pashalik created

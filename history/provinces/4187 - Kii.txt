@@ -1,0 +1,26 @@
+#4187 - Kii
+
+
+owner = MIT
+add_core = MIT
+religion = pink_ribbon
+culture = mitakiharan
+
+
+capital = "Wakayama"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_manpower = 2
+base_production = 3
+is_city = yes
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+1585.11.1 = { remove_core = HTK    }
+1600.10.21 = {    remove_core = ODA }

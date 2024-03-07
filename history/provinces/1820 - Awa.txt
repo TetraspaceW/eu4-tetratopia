@@ -1,0 +1,31 @@
+#1820 - Awa
+
+
+owner = MIT
+add_core = MIT
+religion = pink_ribbon
+culture = mitakiharan
+
+
+capital = "Tokushima"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+1575.1.1 = { }
+1580.1.1 = {   remove_core = HSK }
+1585.8.23 = {    remove_core = CSK }
+1600.10.21 = {    remove_core = ODA }

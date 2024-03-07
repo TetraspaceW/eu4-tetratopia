@@ -1,0 +1,47 @@
+# - El Kef
+
+
+ 
+
+
+capital = "El Kef"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+fort_15th = yes #El Kef fortifications
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1534.8.16 = {
+	
+	
+	
+} #Conquered by Barbarossa
+1535.6.11 = {
+	
+	
+	remove_core = ALG
+} #Spain reinstate Hafsids
+1574.1.1 = {
+	
+	
+	
+} #End of the Hafsids, and of Spanish influence
+1593.1.1 = {
+	
+	
+	remove_core = ALG
+}#Tunisian Pashalik created
+1637.1.1 = {
+	fort_15th = yes
+}

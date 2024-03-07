@@ -1,0 +1,15 @@
+# Assur dominance by southern Mesopotomians
+vassal = {
+	first = SUM
+	second = ASY
+	start_date = 2900.1.1
+	end_date = 3475.1.1
+}
+
+# Second dynasty of ancient Egypt
+vassal = {
+	first = AEG
+	second = LEG
+	start_date = 2689.1.1
+	end_date = 2821.1.1
+}

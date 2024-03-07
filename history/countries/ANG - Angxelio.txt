@@ -1,0 +1,10 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = western
+religion = high_modernist
+primary_culture = modern
+capital = 1955	# Kholmogory
+
+1444.1.1 = {
+}

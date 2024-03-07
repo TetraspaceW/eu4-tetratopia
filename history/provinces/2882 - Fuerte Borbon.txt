@@ -1,0 +1,36 @@
+# - Fuerte Borbon
+
+
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+
+capital = "Fuerte Borbon"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 1
+native_hostileness = 7
+
+1565.1.1 = {
+	discovered_by = SPA
+	
+	
+	
+	
+	
+	trade_goods = wool
+	is_city = yes
+} # Founded by Diego de Villaruel
+1816.7.9 = {
+	
+	
+	
+	remove_core = SPA
+} # Argentina is declared independent

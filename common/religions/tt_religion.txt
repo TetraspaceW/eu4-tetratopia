@@ -1,0 +1,216 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+madokist = {
+	pink_ribbon = {
+		color = { 255 192 203 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+			may_recruit_female_generals = yes
+			female_advisor_chance = 0.9
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { HOMURIST }
+	}
+}
+
+heavens_gate = {
+	heavens_gate = {
+		color = { 200 200 200 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SNAKE_CLAN }
+	}
+}
+
+imperial = {
+	imperial_cult = {
+		color = { 204 242 164 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SNAKE_CLAN }
+	}
+}
+
+eastern = {
+	qualiist = {
+		color = { 255 165 0 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SNAKE_CLAN }
+	}
+}
+
+new_world = {
+	life = {
+		color = { 118 195 85 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { DOOM }
+	}
+	
+	light = {
+		color = { 246 250 78 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { VOID }
+	}
+	
+	math_dom = {
+		color = { 105 109 202 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+			female_advisor_chance = 0.5
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SNAKE_CLAN }
+	}
+}
+
+tetratopian = {
+	high_modernist = {
+		color = { 127 127 127 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { TRADITIONALIST ILLEGIBILIST }
+	}
+	
+	rationalist = {
+		color = { 127 0 0 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { VASSARITE POSTRATIONALIST TPOT }
+	}
+	
+	axial =  {
+		color = { 39 38 4 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SNAKE_CLAN }
+	}
+	
+	vegan_sith = {
+		color = { 0 127 0 }
+		icon = 11
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { SINGLE_GOOD ZOMBIE VAMPIRE LICH }
+	}
+}

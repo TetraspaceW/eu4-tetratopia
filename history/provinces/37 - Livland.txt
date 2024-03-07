@@ -1,0 +1,49 @@
+#273 - Livland
+
+
+owner = PMD
+add_core = PMD
+
+
+capital = "Fellin"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+1542.1.1 = { } # Unknown date
+1561.1.1 = {
+	
+	
+	
+	remove_core = LIV
+} # Livonia ceases to exist
+1569.7.1 = {
+	
+	
+	
+} # Union of Lublin
+1575.7.1 = {  } # Russian conquest
+1582.1.15 = {  } # Peace of Jam-Zapolski
+1600.12.31 = {  } # 2nd Polish War-Captured by Duke Karl
+1603.4.5 = {  } # 2nd Polish War-Captured by Chodkiewicz
+1625.8.21 = {  } # 2nd Polish War-Captured by Jakob de la Gardie
+1629.9.16 = {
+	
+	
+	
+	remove_core = PLC
+}
+1721.8.30 = {
+	
+	
+	
+	remove_core = SWE
+} # The Peace of Nystad

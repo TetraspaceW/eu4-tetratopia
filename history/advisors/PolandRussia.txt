@@ -1,0 +1,180 @@
+##################################################
+#
+# ADVISORS FOR THE REGION 'POLAND AND RUSSIA'
+#
+##################################################
+#Provinces:
+##################################################
+##################################################
+#Russia:
+##################################################
+#33 - Neva (Näset+ the land around River Neva, incl. Nöteborg, Nyen and St.Petersburg)
+#34 - Ingermanland (Ivangorod, Jama, and Kopore)
+#274 - Pskov (Pskov)
+#282 - Cherson	(Cherson)
+#283 - Zaporozhia (Zaporozhia)
+#284 - Crimea (Salaciq)
+#285 - Kaffa (Kaffa)
+#286 - Azow (Azow)
+#287 - Kouban (Stavropol)
+#288 - Lugansk (Lugansk)
+#291 - Kharkov (Kharkov)
+#294 - Tver (Tver)
+#295 - Moskva (Moskva)
+#296 - Kaluga (Kaluga)
+#298 - Kursk (Kursk)
+#299 - Voronezh (Voronezh)
+#300 - Tula (Luga)
+#301 - Ryazan (Ryazan)
+#302 - Tambow (Tambow)
+#303 - Saratow (Saratow)
+#304 - Pensa (Pensa)
+#305 - Simbirsk (Simbirsk)
+#306 - Nijni-Novgorod (Nijni-Novgorod)
+#307 - Vladimir (Vladimir)
+#308 - Yaroslavl (Yaroslavl)
+#309 - Olonets (Kargopor)
+#310 - Novgorod (Novgorod)
+#311 - Kholm (Kholm)
+#312 - Vologda (Vologda)
+#313 - Archangelsk (Archangelsk)
+#314 - Ustyug (Ustyug)
+#417 - Gilan (Rasht)
+#439 - Mangyshlak (Mangyshlak)
+#443 - Ust Yurt (Ust Yurt)
+#455 - Kyrzyl-Kum (Kyrzyl-Kum)
+#456 - Turkestan (Turkestan)
+#462 - Georgia (Georgia)
+#463 - Alania (Alania)
+#464 - Astrakhan (Astrakhan)
+#465 - Bersh (Bersh)
+#466 - Sarai (Sarai)
+#467 - Bogutjar (Bogutjar)
+#468 - Burtasia (Burtasia)
+#469 - Mordvar (Mordvar)
+#470 - Baybaktu (Baybaktu)
+#471 - Alimuly (Alimuly)
+#472 - Zheteru (Zheteru)
+#473 - Samara (Samara)
+#474 - Uralsk (Uralsk)
+#475 - Ufa (Ufa)
+#476 - Kypshak (Kypshak)
+#477 - Nadym (Nadym)
+#478 - Argyn (Argyn)
+#479 - Kerey (Kerey)
+#1034 - Kamchatka
+#1035 - Penchisky
+#1036 - Podzhiversk
+#1037 - Nizhe-Kolymsk
+#1038 - Anadyrsk
+#1039 - Verkhoyansk
+#1040 - Suntar Khayat
+#1041 - Gizhiga
+#1042 - Kamnuskoye
+#1043 - Okhotsk
+#1044 - Tauisk
+#1045 - Yakutsk
+#1046 - Butalsk
+#1047 - Jugjur
+#1048 - Udskoye
+#1049 - Saghalian Oula
+#1050 - Deren
+#1051 - Uchurskoye
+#1052 - Verkohzehkoye
+#1053 - Albazinsky
+#1054 - Ilimsk
+#1055 - Verkne-Angarsky
+#1056 - Barguzinsky
+#1057 - Udinsky
+#1058 - Nerchinsky
+#1059 - Bratsk
+#1060 - Irkutsk
+#1061 - Yeniseysk
+#1062 - Kachinsk
+#1063 - Sayan
+#1064 - Tomsk
+#1065 - Kuznetsk
+#1066 - Altai
+#1067 - Narym
+#1068 - Pegaya Orda
+#1069 - Surgut
+#1070 - Koda
+#1071 - Tara
+#1072 - Obdorsk
+#1073 - Berezov
+#1074 - Tobolsk
+#1075 - Tyumen (Chimgi-Tura)
+#1076 - Kurgan
+#1077 - Solikamsk
+#1078 - North Ufa
+#1079 - Viatka
+#1080 - Idnakar
+#1081 - Bolgar
+#1082 - Kazan
+##################################################
+#Poland + Lithuania:
+##################################################
+#254 - Poznan (Poznan)
+#255 - Kalisz (Gniezno)
+#256 - Plock (Plock)
+#257 - Mazovia (Warsaw)
+#258 - Lodz (Lodz)
+#259 - Lublin (Lublin)
+#260 - Galicien (Lwow)
+#261 - Ruthenia (Ungvar)
+#262 - Krakow (Krakow)
+#269 - Podlasia (Bialystok)
+#270 - Troki (Troki)
+#271 - Samogitia (Varniai)
+#272 - Lithuania (Vilnius)
+#273 - Wenden (Minsk)
+#275 - Polotsk (Vitebsk)
+#276 - Minsk (Minsk)
+#277 - Grodno (Grodno)
+#278 - Polesia (Pinsk)
+#279 - Volhynia (Volodymir)
+#280 - Kiev (Kiev)
+#281 - Podolia (Chernowitz)
+#289 - Chernigov (Chernigov)
+#290 - Poltava (Poltava)
+#292 - Mogilyov (Mogilyov)
+#293 - Smolensk (Smolensk)
+#297 - Orel (Orel)
+##################################################
+##################################################
+#Advisor types:
+##################################################
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

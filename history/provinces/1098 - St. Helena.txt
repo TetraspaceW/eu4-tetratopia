@@ -1,0 +1,38 @@
+#1098 - St. Helena
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+
+
+
+
+1502.5.21 = { discovered_by = POR }
+
+1645.1.1 = {
+	
+	
+	
+	is_city = yes
+	
+	
+	trade_goods = fish
+} # Small Dutch presence from 1645
+1651.1.1 = {
+	
+	
+	
+	remove_core = NED
+	
+	
+} # The English take over St. Helena
+1658.1.1 = { capital = Jamestown } #Jamestown Founded
+1673.1.1 = {  } # Captured by the Dutch
+1673.5.15 = {  } # Recapture by the English
+1707.5.12 = {
+	
+	
+	
+	remove_core = ENG
+} 

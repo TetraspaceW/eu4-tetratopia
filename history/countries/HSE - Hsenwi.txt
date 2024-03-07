@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = western
+religion = heavens_gate
+primary_culture = modern
+capital = 38	# Riga
+
+1444.1.1 = {
+	monarch = {
+		name = "Vincent"
+		dynasty = "Wordsworth"
+		birth_date = 1424.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}

@@ -1,0 +1,64 @@
+#962 - Unami
+
+
+
+capital = "Unami"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 8
+
+
+
+discovered_by = north_american
+
+1609.1.1 = { discovered_by = NED } # Henry Hudson
+
+1643.1.1 = {
+ 	
+	
+	
+	is_city = yes
+	
+	
+	trade_goods = tobacco
+	capital = "Nya Elfsborg" 
+} #Founding of settlement in New Jersey
+1655.9.15 = {
+	
+	
+	
+	remove_core = SWE
+	
+	
+} # Incorporated into the Dutch new Netherlands
+1665.6.1 = {  } # English seize New Netherlands at outset of Second Anglo-Dutch war
+1667.7.31 = {
+	
+	
+	remove_core = NED
+	
+	
+	capital = "Trenton"
+} # Treaty of Breda
+1707.5.12 = {
+	discovered_by = GBR
+	
+	
+	
+	remove_core = ENG
+}
+1764.7.1 = {
+	
+	unrest = 6
+} # Growing unrest
+1776.7.4 = {
+	
+	
+	
+} # Declaration of independence
+1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence

@@ -1,0 +1,280 @@
+#####################################################
+#
+# ADVISORS FOR THE REGION 'AFRICA-MIDDLE EAST-PERSIA'
+#
+#####################################################
+#####################################################
+#Provinces:
+#####################################################
+#Africa:
+#####################################################
+#334 - Tangiers (Tangier)
+#335 - Melilla
+#336 - Tlemcen
+#337 - Oran
+#338 - Al-Djazair
+#339 - Kabylia (Sétif)
+#340 - Constantine
+#341 - Tunis
+#342 - Toubkhal (Rabat)
+#343 - Fez
+#344 - Marrakech
+#345 - Safi
+#346 - Figuig (Meknes)
+#347 - Ifni (Sidi Ifni)
+#348 - Sus (Taroudant)
+#349 - Atlas (Jerada)
+#350 - Aures (Laghouat)
+#351 - Biskra
+#352 - Gafsa
+#353 - Gabes
+#354 - Tripolitania (Tripoli)
+#355 - Sirt
+#356 - Cyrenaica (Benghazi)
+#357 - Libya (Darnah)
+#358 - Alexandria
+#359 - Asyut
+#360 - Nile
+#361 - Cairo
+#362 - Delta (Al Mahallah)
+#363 - Diamientia
+#1110 - Rio de Oro
+#1111 - Arguin
+#1112 - Trarza
+#1113 - Cayor
+#1114 - Gabu
+#1115 - Brakna
+#1116 - Wolof
+#1117 - Futa Jallon
+#1118 - Sierra Leone
+#1119 - Grain Coast
+#1120 - Bambuk
+#1121 - Bure
+#1122 - Konian
+#1123 - Segu
+#1124 - Wasuju
+#1125 - Worodugu
+#1126 - Ivory Coast
+#1127 - Tuat
+#1128 - Taodeni
+#1129 - Azawadd
+#1130 - Tadimekket
+#1131 - Massina
+#1132 - Timbuktu
+#1133 - Gao
+#1134 - Jenne
+#1135 - Yatenga
+#1136 - Gurma
+#1137 - Wagadugi
+#1138 - Kumasi
+#1139 - Gold Coast
+#1140 - Abomey
+#1141 - Whydah
+#1142 - Dendi
+#1143 - Borgu
+#1144 - Oyo
+#1145 - Nupe
+#1146 - Ife
+#1147 - Benin
+#1148 - Gobir
+#1149 - Katsina
+#1150 - Zamfara
+#1151 - Bonny
+#1152 - Idah
+#1153 - Pindinga
+#1154 - Zazzau
+#1155 - Kano
+#1156 - Damagaram
+#1157 - Damasak
+#1158 - Kanem
+#1159 - Bagirmi
+#1160 - Bornu
+#1161 - Bauchi
+#1162 - Wukari
+#1163 - Calabar
+#1164 - Cameroon
+#1165 - Gabon
+#1166 - Loango
+#1167 - Luanda
+#1168 - Kisarna
+#1169 - Mayombe
+#1170 - Kongo
+#1171 - Ndongo
+#1172 - Benguela
+#1173 - Damaraland
+#1174 - Greater Namaqualand
+#1175 - Lesser Namaqualand
+#1176 - Roggeveld
+#1177 - Cape
+#1178 - Great Karoo
+#1179 - Little Karoo
+#1180 - Transkei
+#1181 - Natal
+#1182 - Delagoa Bay
+#1183 - Inhambane
+#1184 - Zimbabwe
+#1185 - Uteve
+#1186 - Sofala
+#1187 - Urungwe
+#1188 - Tete
+#1189 - Barwe
+#1190 - Zumbo
+#1191 - Sena
+#1192 - Quelimane
+#1193 - Menabe
+#1194 - Boina
+#1195 - Mozambique
+#1196 - Kilwa
+#1197 - Ujiji
+#1198 - Tabora
+#1199 - Bagamoyo
+#1200 - Tanga
+#1201 - Zanzibar
+#1202 - Mombasa
+#1203 - Malindi
+#1204 - Chisimayo
+#1205 - Mogadishu
+#1206 - Mayertern
+#1207 - Ogaden
+#1208 - Haud
+#1209 - Berbera
+#1210 - Ifat
+#1211 - Harer
+#1212 - Zeila
+#1213 - Shoa
+#1214 - Awsa
+#1215 - Tajura
+#1216 - Dar Nuba
+#1217 - Fazughli
+#1218 - Kefa
+#1219 - Kordofan
+#1220 - Dar Ja'al
+#1221 - Taqali
+#1222 - Gezira
+#1223 - Gojjam
+#1224 - Gonder
+#1225 - Butana
+#1226 - Taka
+#1227 - Tigre
+#1228 - Dongola
+#1229 - Berber
+#1230 - Massawa
+#1231 - Ibrim
+#1232 - Suakin
+#1233 - Kargah
+#1234 – Nubia
+#1249 - Yola
+####################################################
+#Middle-East (except Turkey):
+####################################################
+#364 - Gaza
+#365 - Sinai
+#377 - Aleppo
+#378 - Beirut
+#379 - Judea (Jerusalem)
+#380 - Al Karak
+#381 - Hawran (Amman)
+#382 - Damascus
+#383 - Tabouk
+#384 - Medina
+#385 - Mecca
+#386 - Asir
+#387 - Mocha
+#388 - Aden
+#389 - Hadramut (Al Mukalla)
+#390 - Sana'a
+#391 - Najran
+#392 - Nejd
+#393 - Jabal Shammar
+#394 - Al Hasa
+#395 - Qatar
+#396 - Bahrain (Manama)
+#397 - Beni Yas
+#398 - Qawasim (Sharjah)
+#399 - Suhar
+#400 - Muscat
+#401 - Dhofar (Salalah)
+#402 - Mahra
+#403 - Nizwa
+#404 - Liwa
+#405 - Al Jawf
+#406 - Badiyat Ash Sham
+#407 - Dayr Az Zor
+####################################################
+#Persia:
+####################################################
+#408 - Basra
+#409 - Karbala
+#410 - Iraq-i-Arab (Bagdad)
+#411 - Mosul
+#412 - Khuzestan
+#413 - Luristan
+#414 - Hamadan
+#415 - Sharizhor
+#416 - Azerbaijan (Tebriz)
+#417 - Gilan (Rasht)
+#418 - Van
+#419 - Armenia (Yerevan)
+#420 - Qarabagh
+#421 - Murgan (Baku)
+#423 - Kartli (Tblisi)
+#424 - Shirva
+#425 - Dagestan
+#426 - Mazandaran
+#427 - Gurgan
+#428 - Ajam
+#429 - Fars (Isfahan)
+#430 - Laristan (Shiraz)
+#431 - Hormuz
+#432 - Kerman
+#433 - Dash-i-Lut
+#434 - Makran
+#435 - Sistan
+#436 - Khurasan
+#437 - Atak
+#438 - Kara Kum
+#440 - Khawarzam
+#441 - Khiva
+#446 - Herat
+#447 - Kandahar
+#448 - Gazni
+#449 - Gharchistan
+#450 - Balkh
+#451 - Kabulistan
+####################################################
+#Advisor types:
+####################################################
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################

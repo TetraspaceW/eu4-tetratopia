@@ -1,0 +1,47 @@
+#897 - Quapaw
+
+
+
+
+is_city = yes
+
+
+capital = "Quapaw"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 8
+
+
+
+discovered_by = north_american
+
+1541.1.1 = { discovered_by = SPA } # Hernando de Soto
+1580.1.1 = {
+	
+	
+	remove_core = CAQ
+	is_city = no
+} #Collapse  of the Mississippipan civilizations.
+1762.1.1 = {
+	
+	 
+} #Treaty of Fontainebleau
+1787.1.1 = {  }
+1800.10.1 = {
+	
+	
+	
+	remove_core = SPA
+	
+} # Treaty of San Ildefonso
+1803.4.3 = {
+	
+	
+	
+	remove_core = FRA
+} # The Louisiana purchase

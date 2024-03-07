@@ -1,0 +1,71 @@
+##################################################    
+#
+# ADVISORS FOR THE REGION 'ITALY'
+#
+##################################################    
+##################################################    
+#Italian provinces
+##################################################    
+#101 Liguria: city: Genoa
+#103 Piedmont: 
+#104 Lombardia:
+#105 Parma: 
+#106 Modena: 
+#107 Brescia:  
+#108 Verona:
+#109 Mantua:
+#110 Trent: city: Trento
+#111 Friuli: city: Udine
+#112 Venezia: 
+#113 Ferrara: 
+#114 Romagna: city: Bologna
+#115 Pisa: 
+#116 Firenze: city: Florence
+#117 Siena: 
+#118 Roma: 
+#119 Ancona: region: Marche
+#120 Abbruzzi:
+#121 Napoli: 
+#122 Apulia: 
+#123 Calabria
+#124 Messina: 
+#125 Palermo: 
+#126 Malta: not really Italian, but suited for this region
+#127 Sardinia: 
+##################################################    
+#Advisor types:
+##################################################    
+#philosopher
+#natural_scientist
+#artist
+#statesman
+#treasurer 
+#naval_reformer
+#army_reformer 
+#trader
+#theologian 
+#spymaster 
+#colonial_governor 
+#diplomat
+####################################################
+# Era #1  1450 - 1540  (0/25 used currently)
+####################################################
+
+####################################################
+# Era #2  1540 - 1630   (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #3  1630 - 1720 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# Era #4  1720 - 1810 (0/25 used currently) 
+####################################################
+
+
+####################################################
+# End of file
+####################################################
